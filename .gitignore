@@ -2,6 +2,7 @@
 *.log
 *.tmp
 *.tmp.*
+.classpath
 log.txt
 *.prefs
 .settings/
